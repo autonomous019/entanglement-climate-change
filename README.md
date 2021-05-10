@@ -28,7 +28,7 @@ Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p
 
 <b>Fuel Efficiency</b>
 
-Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> pg. 530 in Zhigalov 2009 
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Kraznobryzhev-%20Ecology%20of%20coherent%20motor%20fuel%20Krasnobryzhev%20V.G_.pdf">English Machine Translation</a>] pg. 530 in Zhigalov 2009 
 
 
 Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p544-551.pdf">The technology of spin modification of oil in refining processes</a> pg. 544 in Zhigalov 2009
