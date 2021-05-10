@@ -5,6 +5,8 @@ Ahronov-Bohm Effect to mitigate climate change
 
 Low Energy Nuclear Reactions (LENR) https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf
 
+Kinderevich A.V. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p608-613.pdf">Solving the problem of accelerated decontamination of radioactive elements</a>
+
 
 <b>Coal</b>
 
