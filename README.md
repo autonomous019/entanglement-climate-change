@@ -15,11 +15,13 @@ Krasnobryzhev V.G. (2009) Coherent Coal - A New Energy Outlook pg. 552 in Zhigal
 
 <b>Fuel Efficiency</b>
 
-Krasnobryzhev V.G. (2009) Ecology of coherent motor fuel pg. 530 in Zhigalov 2009
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> pg. 530 in Zhigalov 2009 
 
-Krasnobryzhev V.G. (2009) The technology of spin modification of oil in refining processes pg. 544 in Zhigalov 2009
+Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p506-509.pdf">Coherent Сoal - New Prospect of Power and Problems Solving of Climate Change</a> in Zhigalov 2009.
 
-Krasnobryzhev V.G. (2009) Coherent technology is a new direction of energy saving in steel annealing processes pg. 558 in Zhigalov 2009.
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p544-551.pdf">The technology of spin modification of oil in refining processes</a> pg. 544 in Zhigalov 2009
+
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p558-563.pdf">Coherent technology is a new direction of energy saving in steel annealing processes</a> pg. 558 in Zhigalov 2009.
 
 
 
