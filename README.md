@@ -53,6 +53,7 @@ Krasnobryzhev V.G. (2009) Spin technology in improving the efficiency of agricul
 Abdulkerimov S.A., Ermolaev Yu.M.,  Rodionov B.N. (2009) Nanotechnology of electrodynamic seawater desalination pg. 625 in Zhigalov 2009.
 
 
+<b>References</b>
 
 Zhigalov, V.A. (2009) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" 668
 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf
