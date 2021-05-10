@@ -1,5 +1,5 @@
 # entanglement-climate-change
-Ahronov-Bohm Effect to mitigate climate change
+This project aims to replicate the the work done in Cybersecurity and Medicine using the same principles of Ahronov-Bohm generators with the application space being climate mitigation, fuel efficiency, cleaner burning coal and other areas researched by Russian, Ukranians and others from the former Soviet Union, which is where the use of A-B generators originated in the Soviet Union. 
 
 <h3>Energy</h3>
 
