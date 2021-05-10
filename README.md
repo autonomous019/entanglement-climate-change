@@ -12,8 +12,28 @@ An english overview of LENR is provided with academic citations at https://e-cat
   The high power- and energy density of LENR seems to compare with a nuclear process, and Andrea Rossi is now testing a 1 MW plant which is intended to last for a year without refuelling. If LENR is proved that it works, the cost of energy would likely dramatically drop. LENR has the potential to be the energy source for humanity for the next centuries and may be able to stop the exhaust of CO2 in the atmosphere. (Rossi, E-Cat, 2021)
   </ul>
   
+A Gravitational analog to the A-B approach but based in the Gravitational A-B effect is that of Baker and Fontana, using high frequency gravitational waves to induce nuclear reactions:
+
+<ul>
+  If an ultra-high-intensity HFGW flux impinges on a nucleus, it is possible that it could
+initiate nuclear fusion at a remote location, or “mass disruption”. Also it may be possible
+to create radioactive waste-free nuclear reactions and energy reactions (Fontana. and
+Baker, 2007). The fusion reactions active on stars are driven by gravity, so why not
+consider a similar process built at a much smaller scale? For instance, non-linear effects
+related to HFGWs can be applied to “Gravity Induced Fusion” (GIF). Metric changes at
+the atomic scale can emulate the muonic-catalyzed fusion process without the need for
+muons (the muon is basically a heavy electron, about 200 times the mass of an electron,
+and, like an electron, is also a fundamental, point-like particle, as far as present day
+experimental measurements can tell, and has an electric charge identical to that of an
+electron). So an HFGW-based GIF process can be described with known theories and
+supporting experiments. (Baker, 2010)
+  
+</ul>
+  
 Baker Jr., R., Fontana, G. (2006) Generation of Gravitational Waves with Nuclear Reactions in the Proceedings of the Space Technology and Applications International Forum (STAIF2006), edited by M. S. El-Genk, American Institute of Physics, Melville, New York, Feb. 12-16, 813, 2006, pp.1352-1358, Paper 160.
 https://www.drrobertbaker.com/docs/AIP;%20HFGW%20Nuclear%20Generator.pdf
+
+Baker Jr., R. (2010) Military Applications of High-Frequency Gravitational Waves (Abridged) January 22, 2010 Revision http://www.gravwave.com/docs/Military%20HFGW%20Applications.pdf
 
 Zhigalov, V (2010) <a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf">Русская мозаика LENR. Часть I. Эксперименты (Low Energy Nuclear Reactions - LENR) [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Russian%20mosaic%20LENR.pdf">English Machine Translation</a>] 
   
