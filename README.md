@@ -3,7 +3,7 @@ Ahronov-Bohm Effect to mitigate climate change
 
 <h3>Energy</h3>
 
-
+Low Energy Nuclear Reactions (LENR) https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf
 
 
 <b>Coal</b>
