@@ -31,7 +31,7 @@ Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p
 Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Kraznobryzhev-%20Ecology%20of%20coherent%20motor%20fuel%20Krasnobryzhev%20V.G_.pdf">English Machine Translation</a>] pg. 530 in Zhigalov 2009 
 
 
-Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p544-551.pdf">The technology of spin modification of oil in refining processes</a> pg. 544 in Zhigalov 2009
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p544-551.pdf">The technology of spin modification of oil in refining processes</a> [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/kraznobryshev%20The%20technology%20of%20spin%20modification%20of%20oil%20in%20the%20refining%20processes%20Krasn.pdf">English Machine Translation</a>] pg. 544 in Zhigalov 2009
 
 Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p558-563.pdf">Coherent technology is a new direction of energy saving in steel annealing processes</a> pg. 558 in Zhigalov 2009.
 
