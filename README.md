@@ -23,7 +23,7 @@ boilers the decrease of CO2 emission for 13%, NOx emission for 16% and SO2 emiss
  </ul> 
 
 Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p506-509.pdf">Coherent Сoal - New Prospect of Power and Problems Solving of Climate Change</a> in Zhigalov 2009.
-
+Когерентный уголь – новая перспектива энергетики ...http://www.second-physics.ru  Aug 29, 2009 — тем, что уголь перед сжиганием переводится в когерентное ... пылевых котлах которой сжигается около 4 млн. каменного угля в год.
 
 
 <b>Fuel Efficiency</b>
