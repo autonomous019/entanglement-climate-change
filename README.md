@@ -35,6 +35,8 @@ https://www.drrobertbaker.com/docs/AIP;%20HFGW%20Nuclear%20Generator.pdf
 
 Baker Jr., R. (2010) Military Applications of High-Frequency Gravitational Waves (Abridged) January 22, 2010 Revision http://www.gravwave.com/docs/Military%20HFGW%20Applications.pdf
 
+Fontana, G., Baker Jr., R. (2007) High-Frequency Gravitational Wave Induced Nuclear Fusion published in the Proceedings of the Space Technology and Applications International Forum (STAIF-2007), edited by M. S. El-Genk, American Institute of Physics, Melville, New York, Feb. 12-15, 2007, Paper 052 http://www.gravwave.com/docs/AIP;%20HFGW%20Nuclear%20Fusion.pdf
+
 Zhigalov, V (2010) <a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf">Русская мозаика LENR. Часть I. Эксперименты (Low Energy Nuclear Reactions - LENR) [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Russian%20mosaic%20LENR.pdf">English Machine Translation</a>] 
   
   
