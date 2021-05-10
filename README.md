@@ -10,7 +10,17 @@ Kinderevich A.V. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p608
 
 <b>Coal</b>
 
+Coherent Coal is claimed to reduce green house gas emmissions according to the work of Russian researchers, as coal is a major power source any additional reduction in using coal is a step in the right direction:
 
+<ul>
+  During the experiment about 220000 tons of coal has been burnt up. In the course of the experiment the
+emission of CO2, NOx, and SO2 in the atmosphere was evaluated. They entered computer
+base of the power station continuously. As a result of the experiment with pulverized-coal
+boilers the decrease of CO2 emission for 13%, NOx emission for 16% and SO2 emission for
+16% has been obtained. The dynamics of boilers operation improved.
+(Krasnobryshev 2009) 
+ 
+ </ul> 
 
 Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p506-509.pdf">Coherent Сoal - New Prospect of Power and Problems Solving of Climate Change</a> in Zhigalov 2009.
 
