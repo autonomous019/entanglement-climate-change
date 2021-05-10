@@ -7,7 +7,12 @@ This project aims to replicate the the work done in Cybersecurity and Medicine u
 Данный обзор ставит задачу рассмотреть совместно некоторые разрозненные факты, известные в основном только специалистам, работающим в области низкоэнергетических ядерных реакций (Low Energy Nuclear Reactions - LENR). Эти факты в силу различных причин малоизвестны широкой научной общественности. В России активных исследователей в данной области, по-видимому, несколько десятков, а по всему миру несколько сотен. Это совсем немного по сравнению с многочисленной армией физиков-ядерщиков. Для отдельной частной физической темы это, казалось бы, вполне нормально. Однако явление, о котором идёт речь, требует гораздо больших усилий, поскольку несводимо к уже изученным физическим процессам, и, как считают многие, претендует на необходимость пересмотра общепринятых теорий. Кроме того, многие считают, что разработка этой темы сулит человечеству неисчерпаемый безопасный источник энергии.
 </ul>
 
+An english overview of LENR is provided with academic citations at https://e-catworld.com/what-is-lenr/
+<ul>
+  The high power- and energy density of LENR seems to compare with a nuclear process, and Andrea Rossi is now testing a 1 MW plant which is intended to last for a year without refuelling. If LENR is proved that it works, the cost of energy would likely dramatically drop. LENR has the potential to be the energy source for humanity for the next centuries and may be able to stop the exhaust of CO2 in the atmosphere. (Rossi, E-Cat, 2021)
+  </ul>
 Zhigalov, V (2010) <a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf">Русская мозаика LENR. Часть I. Эксперименты (Low Energy Nuclear Reactions - LENR) [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Russian%20mosaic%20LENR.pdf">English Machine Translation</a>] 
+  
   
 Kinderevich A.V. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p608-613.pdf">Solving the problem of accelerated decontamination of radioactive elements</a>
 
