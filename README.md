@@ -1,5 +1,5 @@
 # entanglement-climate-change
-This project aims to replicate the the work done in Cybersecurity and Medicine using the same principles of Ahronov-Bohm generators with the application space being climate mitigation, fuel efficiency, cleaner burning coal and other areas researched by Russian, Ukranians and others from the former Soviet Union, which is where the use of A-B generators originated in the Soviet Union. 
+This project aims to replicate the the work done in <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Cybersecurity</a> and <a href="https://github.com/autonomous019/entanglement-medicine">Medicine</a> using the same principles of Ahronov-Bohm generators with the application space being climate mitigation, fuel efficiency, cleaner burning coal and other areas researched by Russian, Ukranians and others from the former Soviet Union, which is where the use of A-B generators originated in the Soviet Union. 
 
 <h3>Energy</h3>
 
