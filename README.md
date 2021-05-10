@@ -11,13 +11,14 @@ Kinderevich A.V. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p608
 <b>Coal</b>
 
 
-Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> pg. 530 in Zhigalov 2009 
 
 Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p506-509.pdf">Coherent Сoal - New Prospect of Power and Problems Solving of Climate Change</a> in Zhigalov 2009.
 
 
 
 <b>Fuel Efficiency</b>
+
+Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p530-535.pdf">Ecology of coherent motor fuel</a> pg. 530 in Zhigalov 2009 
 
 
 Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p544-551.pdf">The technology of spin modification of oil in refining processes</a> pg. 544 in Zhigalov 2009
