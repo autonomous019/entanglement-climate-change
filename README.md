@@ -38,6 +38,8 @@ As explained by Fontana:
 induces the microscopic system to collapse because of the non-linearity memory effect. The smallness of h<sub>GW</sub> is
 also due to the extremely high frequency of the burst we are considering.
 
+</ul>
+<ul>
 The effect of HFGWs on matter is not limited to the memory effect. If HFGWs interact with a couple of test
 particles it induces a temporary increase of the mass of the two test particles because they are affected by vibrations.
 When test particles vibrate their energy increases, their mass increases and, if they are free, then their distance
