@@ -82,6 +82,7 @@ boilers the decrease of CO2 emission for 13%, NOx emission for 16% and SO2 emiss
 Krasnobryzhev, V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p506-509.pdf">Coherent Сoal - New Prospect of Power and Problems Solving of Climate Change</a> in Zhigalov 2009.
 Когерентный уголь – новая перспектива энергетики ...http://www.second-physics.ru  Aug 29, 2009 — тем, что уголь перед сжиганием переводится в когерентное ... пылевых котлах которой сжигается около 4 млн. каменного угля в год.
 
+<hr>
 
 <b>Fuel Efficiency</b>
 
@@ -93,6 +94,7 @@ Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p5
 Krasnobryzhev V.G. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p558-563.pdf">Coherent technology is a new direction of energy saving in steel annealing processes</a> pg. 558 in Zhigalov 2009.
 
 
+<hr>
 
 <b>Agriculture</b>
 
@@ -100,11 +102,14 @@ Krasnobryzhev V.G. (2009) Spin technology in improving the efficiency of agricul
 
 
 
+<hr>
 
 <b>Water Filtration</b>
 
 Abdulkerimov S.A., Ermolaev Yu.M.,  Rodionov B.N. (2009) Nanotechnology of electrodynamic seawater desalination pg. 625 in Zhigalov 2009.
 
+
+<hr>
 
 <b>References</b>
 
