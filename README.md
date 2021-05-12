@@ -35,7 +35,7 @@ As explained by Fontana:
 
 <ul>
 “The amplitude of the HFGW is quite small, and it is the integration of the large number of periods in the burst that
-induces the microscopic system to collapse because of the non-linearity memory effect. The smallness of hGW is
+induces the microscopic system to collapse because of the non-linearity memory effect. The smallness of h<sub>GW</sub> is
 also due to the extremely high frequency of the burst we are considering.
 
 The effect of HFGWs on matter is not limited to the memory effect. If HFGWs interact with a couple of test
