@@ -29,7 +29,26 @@ electron). So an HFGW-based GIF process can be described with known theories and
 supporting experiments. (Baker, 2010)
   
 </ul>
-  
+
+Okatrin worked on Nuclear reactors for the Soviet space program. Nuclear Fusion and Ahronov-Bohm effect is addressed not only in Russian research but also of many gravitational wave theorists around the world such as Italian G. Fontana and American Robert Baker Jr. They have formulated that it is possible to generate low energy nuclear fusion using gravitational waves, as well as generate gravitational waves from nuclear fusion.  If it were not for the electrostatic barrier and is related to the fact that the electrostatic force has a longer range respect to the strong force that drives nuclear processes which prohibits most low energy nuclear reactions we would see nuclear reactions around us all the time.  By using gravitational waves they hope to condense a deuterium atom by 200x, which produces Helium by using  two gravitational beam tuned to same frequency and phase, with an energy for 1ps of 1.47x1020J at a near singularity h=.995, where h is a dimensionless change of distance of two test particles.  They call this Gravity Induced Fusion (GIF) which involves metric changes at the atomic scale can emulate muonic fusion process without need for muons. (Fontana, 2007) This process uses the secondary derivative of HFGWs transport of energy and momentum and therefore exhibit their own gravitational field. One of the effects used in this process is the Christodoulou Effect, Kip Thorne, of which pulses of GWs have ‘memories’ and these memories add up adding energy and momentum additively.  
+As explained by Fontana:
+
+<ul>
+“The amplitude of the HFGW is quite small, and it is the integration of the large number of periods in the burst that
+induces the microscopic system to collapse because of the non-linearity memory effect. The smallness of hGW is
+also due to the extremely high frequency of the burst we are considering.
+
+The effect of HFGWs on matter is not limited to the memory effect. If HFGWs interact with a couple of test
+particles it induces a temporary increase of the mass of the two test particles because they are affected by vibrations.
+When test particles vibrate their energy increases, their mass increases and, if they are free, then their distance
+changes. If they are not free, then the dynamics of the system is affected in various ways depending on the
+frequency of the HFGWs. Again we stress that if the mass of the electron is increased by a factor of 200, then it is
+possible to mimic muon induced fusion, for which experimental knowledge has been already gained. The mass of
+the nuclei will also increase, and the slowdown of the relative motion between two nearby nuclei will be
+compensated in part by the compression due to the memory effect, at least for the fusion process.” (Fontana, 2007)
+</ul>
+
+ 
 Baker Jr., R., Fontana, G. (2006) Generation of Gravitational Waves with Nuclear Reactions in the Proceedings of the Space Technology and Applications International Forum (STAIF2006), edited by M. S. El-Genk, American Institute of Physics, Melville, New York, Feb. 12-16, 813, 2006, pp.1352-1358, Paper 160.
 https://www.drrobertbaker.com/docs/AIP;%20HFGW%20Nuclear%20Generator.pdf
 
@@ -42,7 +61,7 @@ Kinderevich A.V. (2009) <a href="http://www.second-physics.ru/sochi2009/pdf/p608
 Zhigalov, V (2010) <a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/LENR-ru.pdf">Русская мозаика LENR. Часть I. Эксперименты (Low Energy Nuclear Reactions - LENR) [<a href="https://github.com/autonomous019/entanglement-climate-change/blob/main/Russian%20mosaic%20LENR.pdf">English Machine Translation</a>] 
   
   
-
+<hr>
 
 <b>Coal</b>
 
